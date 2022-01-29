@@ -1,0 +1,42 @@
+
+body {
+    background-color: antiquewhite;
+}
+
+.container {
+    margin: 5%;
+}
+
+header {
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+}
+
+.form-group {
+    margin: 3%;
+}
+
+.main-container {
+    background-color: aquamarine;
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+
+}
+
+.form-control {
+    width: 100%;
+}
+
+footer {
+    background-color: gray;
+    text-align: center;
+}
+
+.submit {
+    margin: 6px;
+    color: #fff;
+    background-color: rgb(116, 218, 15);
+}
